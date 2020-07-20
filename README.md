@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there. I'm Alvin. 👋
 
-- 🔭 I’m currently working on a [golang-style C++ Coroutine Library CO](https://github.com/idealvin/co).
-- 😄 Blog: [idealvin.github.io](https://idealvin.github.io/)
-- 📫 How to reach me: idealvin@qq.com
+- 🙏 I’m currently working on a [golang-style C++ coroutine library co](https://github.com/idealvin/co).
+- 👯 I’m looking to collaborate on some business services with [co](https://github.com/idealvin/co).
+- 👉 My personal blog: [idealvin.github.io](https://idealvin.github.io/).
+- ✉️ E-mail me: idealvin@qq.com
 
 <!--
 **idealvin/idealvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
