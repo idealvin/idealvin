@@ -3,7 +3,7 @@
 - 🙏 I’m currently working on a [golang-style C++ coroutine library co](https://github.com/idealvin/co).
 - 👯 I’m looking to collaborate on some business services with [co](https://github.com/idealvin/co).
 - 👉 My personal blog: [idealvin.github.io](https://idealvin.github.io/).
-- ✉️ E-mail me: idealvin@qq.com
+- ✉️ E-mail me: idealvin at qq.com
 
 <!--
 **idealvin/idealvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
