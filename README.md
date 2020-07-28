@@ -1,6 +1,6 @@
 ### Hi there. I'm Alvin. 👋
 
-- 🙏 I’m currently working on a [golang-style C++ coroutine library co](https://github.com/idealvin/co).
+- 🙏 I’m currently working on a [go-style C++ coroutine library co](https://github.com/idealvin/co).
 - 👯 I’m looking to collaborate on some business services with [co](https://github.com/idealvin/co).
 - 👉 My personal blog: [idealvin.github.io](https://idealvin.github.io/).
 - ✉️ E-mail me: idealvin at qq.com
